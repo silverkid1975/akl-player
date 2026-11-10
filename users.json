@@ -1,0 +1,19 @@
+{
+  "special_users": [
+    {
+      "input_name": "andy",
+      "xtream_username": "b54e4ea077",
+      "xtream_url": "http://line.trxdnscloud.ru"
+    },
+    {
+      "input_name": "sony",
+      "xtream_username": "beispiel_user_sony1",
+      "xtream_url": "http://beispiel-server.ru"
+    },
+    {
+      "input_name": "sondi",
+      "xtream_username": "beispiel_user_sondi2",
+      "xtream_url": "http://beispiel-server.ru"
+    }
+  ]
+}
